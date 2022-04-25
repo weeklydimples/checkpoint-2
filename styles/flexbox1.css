@@ -1,0 +1,18 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #73dab2;
+}
+
+.flex {
+    margin: 10px;
+}
+
+.flex_flexOne {
+    display: flex;
+}
+
+.flex_flexOne div {
+    display: flex;
+    margin: 5px;
+}

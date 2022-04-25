@@ -1,0 +1,30 @@
+.flex_flexSeven {
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex_flexSeven > .one  {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex_flexSeven > .two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: flex-end;
+}
+
+.flex_flexSeven > .three {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.flex_flexSeven > .four {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.flex_flexTwo {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex_flexTwo div {
+    display: flex;
+    margin: 2px;
+}

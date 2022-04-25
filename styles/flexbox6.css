@@ -1,0 +1,23 @@
+.flex_flexSix {
+    height: 400px;
+    width: 500px;
+    background-color: #f1f1f1 ;
+    flex-direction: column;
+}
+
+.flex_flexSix > .one {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.flex_flexSix > .two {
+    display: flex;
+    justify-content: space-between;
+    background-color: #d6d6d6 ;
+}
+
+.flex_flexSix > .three {
+    display: flex;
+    justify-content: space-evenly;
+}

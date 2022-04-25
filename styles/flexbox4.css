@@ -1,0 +1,12 @@
+.flex_flexFour {
+    display: flex;
+
+}
+
+.flex_flexFour div {
+    /* display: flex; */
+    width: 350px;
+    background-color: #3d8b6d;
+    margin: 5px;
+    
+}

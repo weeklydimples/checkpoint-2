@@ -1,0 +1,18 @@
+.flex_flexNine {
+    width: 450px;
+    height: 250px;
+    background-color: #eeeeee;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.flex_flexNine div {
+    display: flex;
+    
+}
+
+.flex_flexNine > #special {
+        
+    align-self: flex-end;
+}
